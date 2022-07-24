@@ -1,4 +1,5 @@
 Pythonかじってます  
+アイコン そーさん  
 
   <a href="http://twitter.com/_0kq_">
     <img height="20" src="https://img.shields.io/twitter/follow/_0kq_?label=Twitter&logo=twitter&style=flat" />
