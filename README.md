@@ -3,7 +3,7 @@
 - Age: 20
 - Country: Japan
 - Language
-  - JP (main)
+  - JA (main)
   - EN (almost read only)
 - Favorite
   - Python
