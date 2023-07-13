@@ -3,8 +3,8 @@
 - Age: 20
 - Country: Japan
 - Language
-  - JA (main)
-  - EN (almost read only)
+  - Japanese (main)
+  - English (almost read only)
 - Favorite
   - Python
 - Icon from [そーさん](https://twitter.com/L_Sosn)  
