@@ -14,3 +14,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0kq-github&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0kq-github&theme=tokyonight&hide=shell,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+
+```math
+\ce{$&#x5C;unicode[pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://0kqnet.work/assets/images/](https://github.com/0kq-github/0kq-github/blob/main/0kq2.png?raw=true)0kq2.png');]{x0000}$}
+```
